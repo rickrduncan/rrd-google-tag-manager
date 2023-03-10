@@ -1,0 +1,18 @@
+{
+  "name": "RRD - Google Tag Manager",
+  "slug": "rrd-google-tag-manager",
+  "homepage": "https://github.com/rickrduncan/rrd-google-tag-manager",
+  "download_url": "https://rickrduncan.com/my-plugins/rrd-google-tag-manager/rrd-google-tag-manager-1-2-0.zip",
+  "version": "1.2.0",
+  "requires": "5.2.0",
+  "tested": "6.1.1",
+  "last_updated": "2022-11-16 06:00:00",
+  "author": "Rick R. Duncan",
+  "author_homepage": "https://rickrduncan.com",
+  "sections": {
+    "description": "Add the Google Tag Manager & Google Optimize code snippet to your website.",
+    "installation": "Plugins > Add New > Upload Plugin > Activate.",
+    "changelog": "<p>Version 1.0.0 - Initial release.</p><p>Version 1.2.0 - Updated plugin checker framework to latest version (5.0). Now using wp_body_open hook (instead of genesis_before) to inject code after opening body tag.</p>",
+    "help": "After installation, go to GTM Settings page to enter your information and enable the plugin."
+  }
+}
